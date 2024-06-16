@@ -5,8 +5,10 @@
 
 ## Contents
 
-- [Official](#official)
+- [Plugins](#plugins)
+- [Modules](#modules)
 - [Libraries](#libraries)
+- [Experiences](#experiences)
 - [Tooling](#tooling)
 
 ## Plugins
