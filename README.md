@@ -9,29 +9,21 @@
 - [Libraries](#libraries)
 - [Tooling](#tooling)
 
-## Official
-
-Official resources from Roblox.
-
-- [Website](https://create.roblox.com/)
-- [Documentation](https://create.roblox.com/docs)
-
-## Applications
-
-Downloadable applications for Roblox development.
-
-- [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
-- [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
-
 ## Plugins
 
 Plugins for Roblox Studio.
 
-### Building
+### UI
+
+- [flipbook](https://github.com/flipbook-labs/flipbook)
 
 ## Modules
 
 Modules for Roblox development.
+
+### Humanoid
+
+- [Chickynoid](https://github.com/easy-games/chickynoid)
 
 ### Topbar
 
@@ -64,6 +56,7 @@ Modules for Roblox development.
 
 - [GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI)
 - [MaterialLua](https://github.com/Kinlei/MaterialLua)
+- [Iris](https://github.com/Michael-48/Iris)
 
 ## Libraries
 
@@ -72,6 +65,7 @@ Libraries for Roblox development.
 ### Raycasts
 
 - [Raycast Hitbox](https://github.com/Swordphin/raycastHitboxRbxl)
+- [ZonePlus](https://github.com/1ForeverHD/ZonePlus)
 
 ### Utility
 
@@ -84,6 +78,7 @@ Libraries for Roblox development.
 
 - [ProfileService](https://github.com/MadStudioRoblox/ProfileService)
 - [DataStore2](https://github.com/Kampfkarren/Roblox)
+- [MockDataStoreService](https://github.com/buildthomas/MockDataStoreService)
 
 ### Networking
 
@@ -91,6 +86,8 @@ Libraries for Roblox development.
 - [Red](https://github.com/jackdotink/Red)
 - [Blink](https://github.com/1Axen/blink)
 - [Warp](https://github.com/imezx/Warp)
+- [RbxNet](https://github.com/roblox-aurora/rbx-net)
+- [Zap](https://github.com/red-blox/zap)
 
 ### Frameworks
 
@@ -119,6 +116,11 @@ Open-source Roblox experiences.
 ## Tooling
 
 Tooling for creating on Roblox using [third-party tools](https://create.roblox.com/docs/projects/external-tools).
+
+### Open Cloud
+
+- [Roblox Open Cloud CLI](https://github.com/Sleitnick/rbxcloud)
+- [Mantle](https://github.com/blake-mealey/mantle)
 
 ### Syncing Tools
 
