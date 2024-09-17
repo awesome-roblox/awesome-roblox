@@ -11,9 +11,20 @@
 - [Experiences](#experiences)
 - [Tooling](#tooling)
 
+## Cookbooks
+
+Cookbooks for Roblox development.
+
+- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/)
+- [RbxCookbook](https://github.com/Sleitnick/RbxCookbook)
+
 ## Plugins
 
 Plugins for Roblox Studio.
+
+### Utility
+
+- [Tag Editor](https://github.com/tiffany352/Roblox-Tag-Editor)
 
 ### UI
 
