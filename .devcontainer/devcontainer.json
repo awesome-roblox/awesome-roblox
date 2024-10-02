@@ -14,6 +14,14 @@
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {			
+			"settings": {
+				"markdown.extension.toc.levels": "2..2",
+				"markdown.extension.toc.omittedFromToc": {
+					"readme.md": [
+						"## Contents"
+					]
+				}
+			},
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"yzhang.markdown-all-in-one",
