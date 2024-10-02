@@ -4,11 +4,11 @@
 
 ## Contents
 
-- [Cookbooks](#cookbooks).
-- [Plugins](#plugins).
-- [Modules](#modules).
-- [Libraries](#libraries).
-- [Experiences](#experiences).
+- [Cookbooks](#cookbooks)
+- [Plugins](#plugins)
+- [Modules](#modules)
+- [Libraries](#libraries)
+- [Experiences](#experiences)
 - [Tooling](#tooling)
 - [Contribute](#contribute)
 
