@@ -94,14 +94,11 @@ Libraries for scripting.
 - [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox
 - [Lumin Framework](https://github.com/lumin-dev/LuminFramework) - A lightning fast & efficient framework for Roblox
 
-### UI Frameworks
+### UI
 
 - [React Lua](https://github.com/jsdotlua/react-lua) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua
 - [Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau
 - [Vide](https://github.com/centau/vide) - A reactive Luau library for creating UI
-
-### UI
-
 - [GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI) - Glassmorphic UI in Roblox
 - [MaterialLua](https://github.com/Kinlei/MaterialLua) - A material design library, designed for use in Roblox
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui)
