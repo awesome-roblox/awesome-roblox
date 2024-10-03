@@ -18,7 +18,8 @@
 				"markdown.extension.toc.levels": "2..2",
 				"markdown.extension.toc.omittedFromToc": {
 					"readme.md": [
-						"## Contents"
+						"## Contents",
+						"## Contribute"
 					]
 				},
 				"markdownlint.config": {
