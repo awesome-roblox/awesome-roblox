@@ -1,8 +1,11 @@
 {
-    "markdown.extension.toc.levels": "2..2",
-    "markdown.extension.toc.omittedFromToc": {
-        "readme.md": [
-            "## Contents"
-        ]
-    }
+	"markdown.extension.toc.levels": "2..2",
+	"markdown.extension.toc.omittedFromToc": {
+		"readme.md": [
+			"## Contents"
+		]
+	},
+	"markdownlint.config": {
+		"no-duplicate-heading": false
+	}
 }

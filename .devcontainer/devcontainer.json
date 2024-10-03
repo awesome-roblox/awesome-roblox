@@ -13,13 +13,16 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
-		"vscode": {			
+		"vscode": {
 			"settings": {
 				"markdown.extension.toc.levels": "2..2",
 				"markdown.extension.toc.omittedFromToc": {
 					"readme.md": [
 						"## Contents"
 					]
+				},
+				"markdownlint.config": {
+					"no-duplicate-heading": false
 				}
 			},
 			// Add the IDs of extensions you want installed when the container is created.
