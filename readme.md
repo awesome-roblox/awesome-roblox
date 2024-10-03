@@ -1,5 +1,9 @@
 # Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Awesome Roblox](media/logo.png)](https://github.com/awesome-roblox/awesome-roblox)
+
+---
+
 > A curated list of awesome Roblox open source software.
 
 ## Contents
@@ -14,21 +18,21 @@
 
 ## Cookbooks
 
-Cookbooks for Roblox development.
+*Cookbooks for Roblox development.*
 
 - [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) - Official style guide for Lua code at Roblox.
 - [RbxCookbook](https://github.com/Sleitnick/RbxCookbook) - Useful snippets of Lua code for the Roblox.
 
 ## Plugins
 
-Plugins for Roblox Studio.
+*Plugins for Roblox Studio.*
 
 - [Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) - List of plugins developed by [MaximumADHD](https://github.com/MaximumADHD).
 - [flipbook](https://github.com/flipbook-labs/flipbook) - Storybook plugin for previewing UI components.
 
 ## Modules
 
-Drag and drop modules for Roblox development that just works.
+*Drag and drop modules for Roblox development that just works.*
 
 ### Player
 
@@ -61,7 +65,7 @@ Drag and drop modules for Roblox development that just works.
 
 ## Libraries
 
-Libraries for scripting.
+*Libraries for scripting.*
 
 ### Raycasts
 
@@ -105,7 +109,7 @@ Libraries for scripting.
 
 ## Experiences
 
-Open-source Roblox experiences.
+*Open-source Roblox experiences.*
 
 - [Slither](https://github.com/littensy/slither) - A casual game with a soothing Catppuccin color palette.
 - [Vesteria](https://github.com/berezaa/vesteria) - A fantasy MMORPG originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.
@@ -113,7 +117,7 @@ Open-source Roblox experiences.
 
 ## Tooling
 
-Tooling for creating on Roblox using [third-party tools](https://create.roblox.com/docs/projects/external-tools).
+*Tooling for creating on Roblox using [third-party tools](https://create.roblox.com/docs/projects/external-tools).*
 
 ### Open Cloud
 
