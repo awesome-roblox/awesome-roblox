@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [Official](#official)
 - [Cookbooks](#cookbooks)
 - [Plugins](#plugins)
 - [Modules](#modules)
@@ -15,6 +16,12 @@
 - [Experiences](#experiences)
 - [Tooling](#tooling)
 - [Contribute](#contribute)
+
+## Official
+
+- [Website](https://create.roblox.com/landing)
+- [Documentation](https://create.roblox.com/docs)
+- [Forum](https://devforum.roblox.com/)
 
 ## Cookbooks
 
