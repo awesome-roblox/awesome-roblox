@@ -6,6 +6,10 @@
 
 > A curated list of awesome Roblox open source software.
 
+[Roblox](https://www.roblox.com/) is an immersive platform for communication and connection, hosting 
+millions of diverse experiences. People can connect with others in an experience 
+and chat with their friends on Roblox
+
 ## Contents
 
 - [Official](#official)
