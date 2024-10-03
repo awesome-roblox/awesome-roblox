@@ -69,6 +69,11 @@
 
 ## Libraries
 
+### API Wrappers
+
+- [ro.py](https://github.com/ro-py/ro.py) - A modern, asynchronous Python 3 wrapper for the Roblox API.
+- [noblox.js](https://github.com/noblox/noblox.js) - A Node.js API wrapper for Roblox.
+
 ### Raycasts
 
 - [Raycast Hitbox](https://github.com/Swordphin/raycastHitboxRbxl) - A hit detection system that utilizes Roblox's [Raycasting APIs](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#Raycast).
