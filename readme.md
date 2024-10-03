@@ -32,6 +32,9 @@
 
 - [Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) - List of plugins developed by [MaximumADHD](https://github.com/MaximumADHD).
 - [flipbook](https://github.com/flipbook-labs/flipbook) - Storybook plugin for previewing UI components.
+- [UI Labs](https://github.com/PepeElToro41/ui-labs) - A storybook plugin for Roblox.
+- [Prototype](https://github.com/Velover/PrototypingPlugin) - Plugin to make your blockout of the map easier.
+- [Lumina](https://github.com/Mqxsyy/Lumina) - An open-source custom particle system API for Roblox, includes a graph editor.
 
 ## Modules
 
@@ -82,6 +85,10 @@
 
 - [ProfileService](https://github.com/MadStudioRoblox/ProfileService) - Universal session-locked savable table API.
 - [MockDataStoreService](https://github.com/buildthomas/MockDataStoreService) - Emulation of Roblox's DataStoreService for seamless offline development & testing.
+- [DocumentService](https://github.com/anthony0br/DocumentService) - A powerful, schematised Roblox datastore library.
+- [keyForm](https://github.com/ffrostfall/keyForm) - A datastore library for Roblox.
+- [DataKeep](https://github.com/noahrepublic/DataKeep) - A Promised-base auto-saving DataStore library.
+- [Suphis DataStore Module](https://github.com/NameTakenBonk/SuphisDataStoreModule) - Easy to use Data Store Module for Roblox.
 
 ### Networking
 
@@ -106,17 +113,22 @@
 - [MaterialLua](https://github.com/Kinlei/MaterialLua) - A material design library, designed for use in Roblox.
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui).
 
+### Open Cloud
+
+- [rbxcloud](https://github.com/Sleitnick/rbxcloud) - CLI and library for Roblox Open Cloud API.
+- [Cirrus](https://github.com/memorycode/cirrus) - A Luau library for interacting with Roblox's Open Cloud.
+
 ## Experiences
 
 - [Slither](https://github.com/littensy/slither) - A casual game with a soothing Catppuccin color palette.
 - [Vesteria](https://github.com/berezaa/vesteria) - A fantasy MMORPG originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.
 - [Miner's Haven](https://github.com/berezaa/minershaven) - A revolutionary tycoon-style game where players obtain and implement machine components to create intricate rare mineral processing factories.
+- [Price Point](https://github.com/Fizzyhex/price-point) - A game about guessing marketplace prices.
 
 ## Tooling
 
 ### Open Cloud
 
-- [Roblox Open Cloud CLI](https://github.com/Sleitnick/rbxcloud) - CLI and library for Roblox Open Cloud API.
 - [Mantle](https://github.com/blake-mealey/mantle) - An infrastructure-as-code and deployment tool for Roblox.
 
 ### Syncing Tools
@@ -153,6 +165,7 @@
 ### Compilers
 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox.
+- [darklua](https://github.com/seaofvoices/darklua) - Transform Lua 5.1 and Roblox Lua scripts using rules.
 
 ## Contribute
 
