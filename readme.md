@@ -54,6 +54,7 @@
 - [Adonis](https://github.com/Epix-Incorporated/Adonis) - Server moderation and management system.
 - [Nexus-Admin](https://github.com/TheNexusAvenger/Nexus-Admin) - Admin system for Roblox meant for normal players.
 - [Kohl's Admin](https://github.com/kohls-admin/kohls-admin) - All-in-one solution for experience management.
+- [Centurion](https://github.com/paradoxuum/centurion) - A flexible and extensible command framework for roblox-ts.
 
 ### Backpack
 
@@ -93,11 +94,13 @@
 - [keyForm](https://github.com/ffrostfall/keyForm) - A datastore library for Roblox.
 - [DataKeep](https://github.com/noahrepublic/DataKeep) - A Promised-base auto-saving DataStore library.
 - [Suphis DataStore Module](https://github.com/NameTakenBonk/SuphisDataStoreModule) - Easy to use Data Store Module for Roblox.
+- [Lapis](https://github.com/nezuo/lapis) - A DataStore abstraction library for Roblox.
 
 ### Frameworks
 
 - [Lumin Framework](https://github.com/lumin-dev/LuminFramework) - A lightning fast & efficient framework for Roblox.
 - [Prvd 'M Wrong](https://github.com/prvdmwrong/prvdmwrong) - Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX.
+- [sapphire](https://github.com/Mark-Marks/sapphire) - A lightweight but batteries included Roblox framework.
 
 ### Networking
 
