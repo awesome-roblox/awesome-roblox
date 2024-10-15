@@ -83,6 +83,7 @@
 
 - [ro.py](https://github.com/ro-py/ro.py) - A modern, asynchronous Python 3 wrapper for the Roblox API.
 - [noblox.js](https://github.com/noblox/noblox.js) - A Node.js API wrapper for Roblox.
+- [Openblox](https://github.com/cameronpcampbell/openblox) - API wrapper for Roblox, written in Typescript. Fully typesafe, optional caching, use any http client.
 
 ### DataStore
 
@@ -95,8 +96,8 @@
 
 ### Frameworks
 
-- [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loade with reusable and easy unified server-client modules for faster game development on Roblox.
 - [Lumin Framework](https://github.com/lumin-dev/LuminFramework) - A lightning fast & efficient framework for Roblox.
+- [Prvd 'M Wrong](https://github.com/prvdmwrong/prvdmwrong) - Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX.
 
 ### Networking
 
@@ -128,6 +129,7 @@
 
 ### Utility
 
+- [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loade with reusable and easy unified server-client modules for faster game development on Roblox.
 - [Roblox Lua Promise](https://github.com/evaera/roblox-lua-promise) - Promise implementation for Roblox.
 - [RbxUtil](https://github.com/Sleitnick/RbxUtil) - A collection of utility modules for Roblox.
 - [t](https://github.com/osyrisrblx/t) - A Runtime Typechecker for Roblox.
