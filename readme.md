@@ -96,6 +96,12 @@
 - [Suphis DataStore Module](https://github.com/NameTakenBonk/SuphisDataStoreModule) - Easy to use Data Store Module for Roblox.
 - [Lapis](https://github.com/nezuo/lapis) - A DataStore abstraction library for Roblox.
 
+### Entity Component System
+
+- [Jecs](https://github.com/Ukendio/jecs) - A fast, portable Entity Component System for Luau.
+- [ECR](https://github.com/centau/ecr) - A sparse-set based ECS library for Luau.
+- [Matter](https://github.com/matter-ecs/matter) - A modern ECS library for Roblox.
+
 ### Frameworks
 
 - [Lumin Framework](https://github.com/lumin-dev/LuminFramework) - A lightning fast & efficient framework for Roblox.
