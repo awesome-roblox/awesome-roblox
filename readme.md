@@ -92,7 +92,7 @@ and chat with their friends on Roblox
 
 ### DataStore
 
-- [ProfileService](https://github.com/MadStudioRoblox/ProfileService) - Universal session-locked savable table API.
+- [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) - Periodic DataStore saving solution with session locking.
 - [MockDataStoreService](https://github.com/buildthomas/MockDataStoreService) - Emulation of Roblox's DataStoreService for seamless offline development & testing.
 - [DocumentService](https://github.com/anthony0br/DocumentService) - A powerful, schematised Roblox datastore library.
 - [keyForm](https://github.com/ffrostfall/keyForm) - A datastore library for Roblox.
