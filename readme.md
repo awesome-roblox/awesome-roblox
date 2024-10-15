@@ -13,12 +13,12 @@ and chat with their friends on Roblox
 ## Contents
 
 - [Official](#official)
+- [Software](#software)
+- [Experiences](#experiences)
 - [Plugins](#plugins)
 - [Modules](#modules)
 - [Libraries](#libraries)
-- [Experiences](#experiences)
 - [Tooling](#tooling)
-- [Software](#software)
 - [Contribute](#contribute)
 
 ## Official
@@ -26,6 +26,19 @@ and chat with their friends on Roblox
 - [Website](https://create.roblox.com/landing)
 - [Documentation](https://create.roblox.com/docs)
 - [Forum](https://devforum.roblox.com/)
+
+## Software
+
+- [BTRoblox](https://github.com/AntiBoomz/BTRoblox) - Browser extension that enhances the Roblox website's look and functionality.
+- [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
+- [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
+
+## Experiences
+
+- [Slither](https://github.com/littensy/slither) - A casual game with a soothing Catppuccin color palette.
+- [Vesteria](https://github.com/berezaa/vesteria) - A fantasy MMORPG originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.
+- [Miner's Haven](https://github.com/berezaa/minershaven) - A revolutionary tycoon-style game where players obtain and implement machine components to create intricate rare mineral processing factories.
+- [Price Point](https://github.com/Fizzyhex/price-point) - A game about guessing marketplace prices.
 
 ## Plugins
 
@@ -122,13 +135,6 @@ and chat with their friends on Roblox
 - [rbxcloud](https://github.com/Sleitnick/rbxcloud) - CLI and library for Roblox Open Cloud API.
 - [Cirrus](https://github.com/memorycode/cirrus) - A Luau library for interacting with Roblox's Open Cloud.
 
-## Experiences
-
-- [Slither](https://github.com/littensy/slither) - A casual game with a soothing Catppuccin color palette.
-- [Vesteria](https://github.com/berezaa/vesteria) - A fantasy MMORPG originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.
-- [Miner's Haven](https://github.com/berezaa/minershaven) - A revolutionary tycoon-style game where players obtain and implement machine components to create intricate rare mineral processing factories.
-- [Price Point](https://github.com/Fizzyhex/price-point) - A game about guessing marketplace prices.
-
 ## Tooling
 
 ### Open Cloud
@@ -170,12 +176,6 @@ and chat with their friends on Roblox
 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox.
 - [darklua](https://github.com/seaofvoices/darklua) - Transform Lua 5.1 and Roblox Lua scripts using rules.
-
-## Software
-
-- [BTRoblox](https://github.com/AntiBoomz/BTRoblox) - Browser extension that enhances the Roblox website's look and functionality.
-- [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
-- [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 
 ## Contribute
 
