@@ -13,7 +13,6 @@ and chat with their friends on Roblox
 ## Contents
 
 - [Official](#official)
-- [Cookbooks](#cookbooks)
 - [Plugins](#plugins)
 - [Modules](#modules)
 - [Libraries](#libraries)
@@ -27,11 +26,6 @@ and chat with their friends on Roblox
 - [Website](https://create.roblox.com/landing)
 - [Documentation](https://create.roblox.com/docs)
 - [Forum](https://devforum.roblox.com/)
-
-## Cookbooks
-
-- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) - Official style guide for Lua code at Roblox.
-- [RbxCookbook](https://github.com/Sleitnick/RbxCookbook) - Useful snippets of Lua code for the Roblox.
 
 ## Plugins
 
