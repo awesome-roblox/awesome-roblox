@@ -19,6 +19,7 @@ and chat with their friends on Roblox
 - [Libraries](#libraries)
 - [Experiences](#experiences)
 - [Tooling](#tooling)
+- [Software](#software)
 - [Contribute](#contribute)
 
 ## Official
@@ -175,6 +176,12 @@ and chat with their friends on Roblox
 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox.
 - [darklua](https://github.com/seaofvoices/darklua) - Transform Lua 5.1 and Roblox Lua scripts using rules.
+
+## Software
+
+- [BTRoblox](https://github.com/AntiBoomz/BTRoblox) - Browser extension that enhances the Roblox website's look and functionality.
+- [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
+- [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 
 ## Contribute
 
