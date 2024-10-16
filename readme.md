@@ -116,6 +116,7 @@
 - [Warp](https://github.com/imezx/Warp) - Very-fast & powerful networking library.
 - [RbxNet](https://github.com/roblox-aurora/rbx-net) - Advanced multi-language networking framework.
 - [Zap](https://github.com/red-blox/zap) - Lightning fast networking solution.
+- [Lumin Net](https://github.com/luminlabsdev/net) - A simple and efficient networking library.
 
 ### Open Cloud
 
