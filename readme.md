@@ -134,7 +134,6 @@
 - [Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [Vide](https://github.com/centau/vide) - A reactive Luau library for creating UI.
 - [GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI) - Glassmorphic UI in Roblox.
-- [MaterialLua](https://github.com/Kinlei/MaterialLua) - A material design library, designed for use in Roblox.
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui).
 
 ### Utility
