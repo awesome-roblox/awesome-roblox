@@ -43,8 +43,6 @@
 - [Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) - List of plugins developed by [MaximumADHD](https://github.com/MaximumADHD).
 - [flipbook](https://github.com/flipbook-labs/flipbook) - Storybook plugin for previewing UI components.
 - [UI Labs](https://github.com/PepeElToro41/ui-labs) - A storybook plugin for Roblox.
-- [Prototype](https://github.com/Velover/PrototypingPlugin) - Plugin to make your blockout of the map easier.
-- [Lumina](https://github.com/Mqxsyy/Lumina) - An open-source custom particle system API for Roblox, includes a graph editor.
 
 ## Modules
 
@@ -91,9 +89,7 @@
 - [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) - Periodic DataStore saving solution with session locking.
 - [MockDataStoreService](https://github.com/buildthomas/MockDataStoreService) - Emulation of Roblox's DataStoreService for seamless offline development & testing.
 - [DocumentService](https://github.com/anthony0br/DocumentService) - A powerful, schematised Roblox datastore library.
-- [keyForm](https://github.com/ffrostfall/keyForm) - A datastore library for Roblox.
 - [DataKeep](https://github.com/noahrepublic/DataKeep) - A Promised-base auto-saving DataStore library.
-- [Suphis DataStore Module](https://github.com/NameTakenBonk/SuphisDataStoreModule) - Easy to use Data Store Module for Roblox.
 - [Lapis](https://github.com/nezuo/lapis) - A DataStore abstraction library for Roblox.
 
 ### Entity Component System
@@ -104,24 +100,19 @@
 
 ### Frameworks
 
-- [Lumin Framework](https://github.com/lumin-dev/LuminFramework) - A lightning fast & efficient framework for Roblox.
 - [Prvd 'M Wrong](https://github.com/prvdmwrong/prvdmwrong) - Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX.
-- [sapphire](https://github.com/Mark-Marks/sapphire) - A lightweight but batteries included Roblox framework.
 
 ### Networking
 
 - [ByteNet](https://github.com/ffrostfall/ByteNet) - Advanced, modern networking library.
-- [Red](https://github.com/jackdotink/Red) - Simple, fast, and powerful networking library.
+- [Red](https://github.com/red-blox/red) - Simple, fast, and powerful networking library.
 - [Blink](https://github.com/1Axen/blink) - An IDL compiler written in Luau for ROBLOX buffer networking.
-- [Warp](https://github.com/imezx/Warp) - Very-fast & powerful networking library.
 - [RbxNet](https://github.com/roblox-aurora/rbx-net) - Advanced multi-language networking framework.
 - [Zap](https://github.com/red-blox/zap) - Lightning fast networking solution.
-- [Lumin Net](https://github.com/luminlabsdev/net) - A simple and efficient networking library.
 
 ### Open Cloud
 
 - [rbxcloud](https://github.com/Sleitnick/rbxcloud) - CLI and library for Roblox Open Cloud API.
-- [Cirrus](https://github.com/memorycode/cirrus) - A Luau library for interacting with Roblox's Open Cloud.
 
 ### Raycasts
 
@@ -150,6 +141,7 @@
 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox.
 - [darklua](https://github.com/seaofvoices/darklua) - Transform Lua 5.1 and Roblox Lua scripts using rules.
+- [Lune](https://github.com/lune-org/lune) - A standalone Luau runtime
 
 ### Documentation Generators
 
@@ -184,7 +176,6 @@
 ### Toolchain Managers
 
 - [Rokit](https://github.com/rojo-rbx/rokit) - Next-generation toolchain manager for Roblox projects.
-- [Aftman](https://github.com/LPGhatguy/aftman) - The prodigal sequel to Foreman.
 - [Foreman](https://github.com/Roblox/foreman) - Toolchain manager for Roblox projects.
 
 ## Contribute
