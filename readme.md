@@ -17,7 +17,7 @@
 - [Modules](#modules)
 - [Libraries](#libraries)
 - [Tooling](#tooling)
-- [Contributing](#contributing)
+- [Contribute](#contribute)
 
 ## Official
 
@@ -126,6 +126,7 @@
 - [Vide](https://github.com/centau/vide) - A reactive Luau library for creating UI.
 - [GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI) - Glassmorphic UI in Roblox.
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui).
+- [fluid](https://github.com/ffrostfall/fluid) - A declarative UI framework for Roblox.
 
 ### Utility
 
@@ -141,7 +142,7 @@
 
 - [roblox-ts](https://github.com/roblox-ts/roblox-ts) - A TypeScript-to-Luau Compiler for Roblox.
 - [darklua](https://github.com/seaofvoices/darklua) - Transform Lua 5.1 and Roblox Lua scripts using rules.
-- [Lune](https://github.com/lune-org/lune) - A standalone Luau runtime
+- [Lune](https://github.com/lune-org/lune) - A standalone Luau runtime.
 
 ### Documentation Generators
 
@@ -178,6 +179,6 @@
 - [Rokit](https://github.com/rojo-rbx/rokit) - Next-generation toolchain manager for Roblox projects.
 - [Foreman](https://github.com/Roblox/foreman) - Toolchain manager for Roblox projects.
 
-## Contributing
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
