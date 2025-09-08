@@ -107,6 +107,7 @@
 
 ### Frameworks
 
+- [Flamework](https://github.com/rbxts-flamework/core) - An extensible game framework for roblox-ts.
 - [Prvd 'M Wrong](https://github.com/prvdmwrong/prvdmwrong) - Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX.
 
 ### Networking
