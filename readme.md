@@ -104,6 +104,7 @@
 - [ECR](https://github.com/centau/ecr) - A sparse-set based ECS library for Luau.
 - [Matter](https://github.com/matter-ecs/matter) - A modern ECS library for Roblox.
 - [Planck](https://github.com/YetAnotherClown/planck) - An Agnostic Scheduler for ECS.
+- [Replecs](https://github.com/PepeElToro41/replecs)- A fast, fine controlled JECS replication library.
 
 ### Frameworks
 
