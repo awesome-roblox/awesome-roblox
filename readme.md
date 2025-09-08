@@ -76,6 +76,11 @@
 
 - [TopbarPlus](https://github.com/1ForeverHD/TopbarPlus) - Construct dynamic and intuitive topbar icons.
 
+### UI components
+
+- [OnyxUI](https://github.com/loneka/onyx-ui) - Quick, customizable components for Fusion.
+- [Lydie](https://github.com/7kayoh/Lydie) - Beautiful UI components for Fusion.
+
 ## Libraries
 
 ### API Wrappers
