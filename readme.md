@@ -172,6 +172,7 @@
 ### Package Managers
 
 - [Wally](https://github.com/UpliftGames/wally) - Wally is a modern package manager for Roblox projects inspired by Cargo.
+- [pesde](https://github.com/pesde-pkg/pesde) - A package manager for the Luau programming language.
 
 ### Syncing Tools
 
