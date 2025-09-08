@@ -97,6 +97,7 @@
 - [Jecs](https://github.com/Ukendio/jecs) - A fast, portable Entity Component System for Luau.
 - [ECR](https://github.com/centau/ecr) - A sparse-set based ECS library for Luau.
 - [Matter](https://github.com/matter-ecs/matter) - A modern ECS library for Roblox.
+- [Planck](https://github.com/YetAnotherClown/planck) - An Agnostic Scheduler for ECS.
 
 ### Frameworks
 
