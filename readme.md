@@ -91,6 +91,7 @@
 - [DocumentService](https://github.com/anthony0br/DocumentService) - A powerful, schematised Roblox datastore library.
 - [DataKeep](https://github.com/noahrepublic/DataKeep) - A Promised-base auto-saving DataStore library.
 - [Lapis](https://github.com/nezuo/lapis) - A DataStore abstraction library for Roblox.
+- [Lyra](https://github.com/paradoxum-games/lyra) - Advanced player data management with a simple API.
 
 ### Entity Component System
 
