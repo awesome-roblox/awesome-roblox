@@ -17,7 +17,6 @@
 - [Modules](#modules)
 - [Libraries](#libraries)
 - [Tooling](#tooling)
-- [Contribute](#contribute)
 
 ## Official
 
@@ -188,6 +187,6 @@
 - [Rokit](https://github.com/rojo-rbx/rokit) - Next-generation toolchain manager for Roblox projects.
 - [Foreman](https://github.com/Roblox/foreman) - Toolchain manager for Roblox projects.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
