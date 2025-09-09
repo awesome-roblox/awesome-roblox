@@ -56,19 +56,6 @@
 - [Neobar](https://github.com/ImAvafe/NeoHotbar) - A modern, customizable hotbar for Roblox.
 - [Satchel](https://github.com/RyanLua/Satchel) - Modern alternative to Roblox's default backpack.
 
-### Camera Shake
-
-- [RbxCameraShaker](https://github.com/Sleitnick/RbxCameraShaker) - Camera shake effects.
-
-### Chat
-
-- [Social Chat](https://github.com/Cosmental/Social-Chat-V2) - Replacement for Roblox's default Chat System with added features and more.
-
-### Player
-
-- [Chickynoid](https://github.com/easy-games/chickynoid) - Server-authoritative networking character controller.
-- [Character Realism](https://github.com/MaximumADHD/Character-Realism) - A flexible character enhancement system.
-
 ### Topbar
 
 - [TopbarPlus](https://github.com/1ForeverHD/TopbarPlus) - Construct dynamic and intuitive topbar icons.
@@ -89,7 +76,6 @@
 ### DataStore
 
 - [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) - Periodic DataStore saving solution with session locking.
-- [MockDataStoreService](https://github.com/buildthomas/MockDataStoreService) - Emulation of Roblox's DataStoreService for seamless offline development & testing.
 - [DocumentService](https://github.com/anthony0br/DocumentService) - A powerful, schematised Roblox datastore library.
 - [DataKeep](https://github.com/noahrepublic/DataKeep) - A Promised-base auto-saving DataStore library.
 - [Lapis](https://github.com/nezuo/lapis) - A DataStore abstraction library for Roblox.
@@ -122,7 +108,6 @@
 
 ### Raycasts
 
-- [Raycast Hitbox](https://github.com/Swordphin/raycastHitboxRbxl) - A hit detection system that utilizes Roblox's [Raycasting APIs](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#Raycast).
 - [ZonePlus](https://github.com/1ForeverHD/ZonePlus) - Construct dynamic zones to effectively determine players and parts within their boundaries.
 
 ### UI
@@ -130,14 +115,12 @@
 - [React Lua](https://github.com/jsdotlua/react-lua) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
 - [Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [Vide](https://github.com/centau/vide) - A reactive Luau library for creating UI.
-- [GlassmorphicUI](https://github.com/boatbomber/GlassmorphicUI) - Glassmorphic UI in Roblox.
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui).
 - [fluid](https://github.com/ffrostfall/fluid) - A declarative UI framework for Roblox.
 
 ### Utility
 
 - [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loade with reusable and easy unified server-client modules for faster game development on Roblox.
-- [Roblox Lua Promise](https://github.com/evaera/roblox-lua-promise) - Promise implementation for Roblox.
 - [RbxUtil](https://github.com/Sleitnick/RbxUtil) - A collection of utility modules for Roblox.
 - [t](https://github.com/osyrisrblx/t) - A Runtime Typechecker for Roblox.
 - [Janitor](https://github.com/howmanysmall/Janitor) - Light-weight, flexible object for cleaning up connections, instances, etc.
