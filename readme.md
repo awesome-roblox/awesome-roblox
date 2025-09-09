@@ -10,19 +10,12 @@
 
 ## Contents
 
-- [Official](#official)
 - [Software](#software)
 - [Experiences](#experiences)
 - [Plugins](#plugins)
 - [Modules](#modules)
 - [Libraries](#libraries)
 - [Tooling](#tooling)
-
-## Official
-
-- [Website](https://create.roblox.com/landing)
-- [Documentation](https://create.roblox.com/docs)
-- [Forum](https://devforum.roblox.com/)
 
 ## Software
 
