@@ -159,7 +159,6 @@
 ### Syncing Tools
 
 - [Rojo](https://github.com/rojo-rbx/rojo) - Enables Roblox developers to use professional-grade software engineering tools.
-- [rbxmk](https://github.com/anaminus/rbxmk) - A tool for processing Roblox files.
 - [Argon](https://github.com/argon-rbx/argon) - Full featured tool for Roblox development.
 - [Lync](https://github.com/Iron-Stag-Games/Lync) - File sync tool.
 
