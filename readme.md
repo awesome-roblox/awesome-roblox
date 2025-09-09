@@ -33,8 +33,6 @@
 ## Experiences
 
 - [Slither](https://github.com/littensy/slither) - A casual game with a soothing Catppuccin color palette.
-- [Vesteria](https://github.com/berezaa/vesteria) - A fantasy MMORPG originally founded by berezaa, sk3let0n and Polymorphic in the Roblox Incubator program.
-- [Miner's Haven](https://github.com/berezaa/minershaven) - A revolutionary tycoon-style game where players obtain and implement machine components to create intricate rare mineral processing factories.
 - [Price Point](https://github.com/Fizzyhex/price-point) - A game about guessing marketplace prices.
 
 ## Plugins
