@@ -1,8 +1,6 @@
-# Awesome Roblox [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[![Awesome Roblox](media/logo.png)](https://github.com/awesome-roblox/awesome-roblox)
-
----
+<h1>
+  <img src="media/logo.png" alt="Awesome Roblox">
+</h1>
 
 > A curated list of awesome Roblox open-source software.
 
