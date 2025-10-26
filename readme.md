@@ -62,7 +62,7 @@
 
 - [ro.py](https://github.com/ro-py/ro.py) - A modern, asynchronous Python 3 wrapper for the Roblox API.
 - [noblox.js](https://github.com/noblox/noblox.js) - A Node.js API wrapper for Roblox.
-- [Openblox](https://github.com/cameronpcampbell/openblox) - API wrapper for Roblox, written in Typescript. Fully typesafe, optional caching, use any http client.
+- [Openblox](https://github.com/cameronpcampbell/openblox) - API wrapper for Roblox, written in TypeScript. Fully typesafe, optional caching, use any http client.
 
 ### DataStore
 
