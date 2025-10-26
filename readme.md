@@ -30,7 +30,7 @@
 
 - [Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) - List of plugins developed by [MaximumADHD](https://github.com/MaximumADHD).
 - [flipbook](https://github.com/flipbook-labs/flipbook) - Storybook plugin for previewing UI components.
-- [UI Labs](https://github.com/PepeElToro41/ui-labs) - A storybook plugin for Roblox.
+- [UI Labs](https://github.com/PepeElToro41/ui-labs) - A Storybook plugin for Roblox.
 
 ## Modules
 
@@ -131,7 +131,7 @@
 ### Language Servers
 
 - [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp) - Language Server Implementation for Luau.
-- [Roblox Luau Language Server](https://github.com/NightrainsRbx/RobloxLsp) - Roblox Luau Language Server based on Lua by sumneko.
+- [Roblox Luau Language Server](https://github.com/NightrainsRbx/RobloxLsp) - Language Server for Roblox based on Lua by sumneko.
 
 ### Linters/Formatters
 
@@ -144,7 +144,7 @@
 
 ### Package Managers
 
-- [Wally](https://github.com/UpliftGames/wally) - Wally is a modern package manager for Roblox projects inspired by Cargo.
+- [Wally](https://github.com/UpliftGames/wally) - A modern package manager for Roblox projects inspired by Cargo.
 - [pesde](https://github.com/pesde-pkg/pesde) - A package manager for the Luau programming language.
 
 ### Syncing Tools
