@@ -1,10 +1,13 @@
-<h1>
+<h1 align="center">
   <img src="media/logo.png" alt="Awesome Roblox">
+
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </h1>
 
-> A curated list of awesome Roblox open-source software.
-
 [Roblox](https://www.roblox.com/) is an immersive platform for communication and connection, hosting millions of diverse experiences. People can connect with others in an experience and chat with their friends on Roblox.
+
+
+</div>
 
 ## Contents
 
