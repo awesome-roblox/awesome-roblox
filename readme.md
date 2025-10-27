@@ -115,7 +115,7 @@
 ### Utility
 
 - [Janitor](https://github.com/howmanysmall/Janitor) - Light-weight, flexible object for cleaning up connections, instances, etc.
-- [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loade with reusable and easy unified server-client modules for faster game development on Roblox.
+- [Nevermore](https://github.com/Quenty/NevermoreEngine) - ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox.
 - [RbxUtil](https://github.com/Sleitnick/RbxUtil) - A collection of utility modules for Roblox.
 - [t](https://github.com/osyrisrblx/t) - A Runtime Typechecker for Roblox.
 
