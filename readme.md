@@ -44,6 +44,7 @@
 - [Cmdr](https://github.com/evaera/Cmdr) - Extensible command console for developers.
 - [Kohl's Admin](https://github.com/kohls-admin/kohls-admin) - All-in-one solution for experience management.
 - [Nexus-Admin](https://github.com/TheNexusAvenger/Nexus-Admin) - Admin system for Roblox meant for normal players.
+- [Conch](https://github.com/alicesaidhi/conch) - Modern and scalable developer console with a shell-like turing-complete scripting language.
 
 ### Backpack
 
