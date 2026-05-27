@@ -90,6 +90,7 @@
 
 - [Flamework](https://github.com/rbxts-flamework/core) - An extensible game framework for roblox-ts.
 - [Prvd 'M Wrong](https://github.com/prvdmwrong/prvdmwrong) - Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX.
+- [Knit](https://github.com/Sleitnick/Knit) - A lightweight framework for Roblox that simplifies communication between core parts of your game and seamlessly bridges the gap between the server and the client.
 
 ### Networking
 
