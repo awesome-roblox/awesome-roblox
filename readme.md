@@ -24,6 +24,7 @@
 - [BTRoblox](https://github.com/AntiBoomz/BTRoblox) - Browser extension that enhances the Roblox website's look and functionality.
 - [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
 - [Vinegar](https://github.com/vinegarhq/vinegar) - An open-source, configurable, fast bootstrapper for running Roblox Studio on Linux.
+- [ZeroScript](https://github.com/sebattfg/ZeroScript-Free) - A free browser extension that turns any AI chat site into an agent for Roblox Studio, with no API key or subscription required.
 
 ## Experiences
 
