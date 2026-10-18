@@ -112,7 +112,7 @@
 - [fluid](https://github.com/ffrostfall/fluid) - A declarative UI framework for Roblox.
 - [Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [Iris](https://github.com/Michael-48/Iris) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui).
-- [React Lua](https://github.com/jsdotlua/react-lua) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
+- [React Luau](https://github.com/Roblox/react-luau) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
 - [Vide](https://github.com/centau/vide) - A reactive Luau library for creating UI.
 
 ### Utility
