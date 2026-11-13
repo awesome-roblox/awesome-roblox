@@ -44,9 +44,9 @@
 - [Centurion](https://github.com/paradoxuum/centurion) - A flexible and extensible command framework for roblox-ts.
 - [Cmdr](https://github.com/evaera/Cmdr) - Extensible command console for developers.
 - [Conch](https://github.com/alicesaidhi/conch) - Modern and scalable developer console with a shell-like turing-complete scripting language.
+- [HD Admin](https://github.com/nanoblox/hd-admin) - Moderation, monetisation and game management with over 200 commands.
 - [Kohl's Admin](https://github.com/kohls-admin/kohls-admin) - All-in-one solution for experience management.
 - [Nexus-Admin](https://github.com/TheNexusAvenger/Nexus-Admin) - Admin system for Roblox meant for normal players.
-- [HD Admin v2](https://github.com/nanoblox/hd-admin) - Moderation, monetisation and game management with over 200 commands.
 
 ### Backpack
 
