@@ -156,6 +156,7 @@
 
 ### Syncing Tools
 
+- [Azul](https://github.com/Ransomwave/azul) - Finally, an easy to use two-way sync tool where Roblox Studio is the souce of truth.
 - [Argon](https://github.com/argon-rbx/argon) - Full featured tool for Roblox development.
 - [Lync](https://github.com/Iron-Stag-Games/Lync) - File sync tool.
 - [Rojo](https://github.com/rojo-rbx/rojo) - Enables Roblox developers to use professional-grade software engineering tools.
