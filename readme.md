@@ -129,6 +129,7 @@
 
 ### Documentation Generators
 
+- [LuauDocs](https://github.com/kohltastrophe/luaudocs) - Documentation generator for Luau.
 - [Moonwave](https://github.com/evaera/moonwave) - Tool for generating documentation from comments in Lua source code.
 
 ### Language Servers
