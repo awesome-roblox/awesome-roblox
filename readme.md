@@ -50,7 +50,6 @@
 
 ### Backpack
 
-- [Neobar](https://github.com/ImAvafe/NeoHotbar) - A modern, customizable hotbar for Roblox.
 - [Purse](https://github.com/ryanlua/purse) - CoreGui decoupled version of the Roblox default backpack.
 - [Satchel](https://github.com/ryanlua/satchel) - Modern alternative to Roblox's default backpack.
 
@@ -67,7 +66,6 @@
 
 ### API Wrappers
 
-- [noblox.js](https://github.com/noblox/noblox.js) - A Node.js API wrapper for Roblox.
 - [Openblox](https://github.com/cameronpcampbell/openblox) - API wrapper for Roblox, written in TypeScript. Fully typesafe, optional caching, use any http client.
 - [ro.py](https://github.com/ro-py/ro.py) - A modern, asynchronous Python 3 wrapper for the Roblox API.
 
@@ -83,7 +81,6 @@
 
 - [ECR](https://github.com/centau/ecr) - A sparse-set based ECS library for Luau.
 - [Jecs](https://github.com/Ukendio/jecs) - A fast, portable Entity Component System for Luau.
-- [Matter](https://github.com/matter-ecs/matter) - A modern ECS library for Roblox.
 - [Planck](https://github.com/YetAnotherClown/planck) - An Agnostic Scheduler for ECS.
 - [Replecs](https://github.com/PepeElToro41/replecs) - A fast, fine controlled JECS replication library.
 
@@ -97,7 +94,6 @@
 - [Blink](https://github.com/1Axen/blink) - An IDL compiler written in Luau for ROBLOX buffer networking.
 - [ByteNet](https://github.com/ffrostfall/ByteNet) - Advanced, modern networking library.
 - [RbxNet](https://github.com/roblox-aurora/rbx-net) - Advanced multi-language networking framework.
-- [Red](https://github.com/red-blox/red) - Simple, fast, and powerful networking library.
 - [Zap](https://github.com/red-blox/zap) - Lightning fast networking solution.
 
 ### Open Cloud
