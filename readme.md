@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="media/logo.png" alt="Awesome Roblox">
-
+  
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Discord](https://discord.com/api/guilds/385151591524597761/widget.png)](https://discord.gg/Qm3JNyEc32)
 </h1>
 
 [Roblox](https://www.roblox.com/) is an immersive platform for communication and connection, hosting millions of diverse experiences. People can connect with others in an experience and chat with their friends on Roblox.
